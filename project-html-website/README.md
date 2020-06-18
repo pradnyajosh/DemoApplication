@@ -2,7 +2,7 @@
 
 | Language | Platform | Author |
 | -------- | --------|--------|
-| HTML |  Azure Web App, Virtual Machine| |
+| HTML |  Azure Web App, Virtual Machine| | Pradnya Joshi
 
 # Sample HTML website 
 
